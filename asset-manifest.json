@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sdweb/static/css/main.c30fec32.css",
+    "main.js": "/sdweb/static/js/main.7dfde61f.js",
+    "index.html": "/sdweb/index.html",
+    "main.c30fec32.css.map": "/sdweb/static/css/main.c30fec32.css.map",
+    "main.7dfde61f.js.map": "/sdweb/static/js/main.7dfde61f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c30fec32.css",
+    "static/js/main.7dfde61f.js"
+  ]
+}
